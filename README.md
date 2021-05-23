@@ -1,1 +1,2 @@
 # Motion-Detection-and-Tracking
+In this video on OpenCV Python Tutorial For Beginners, I am going to show How to Find Motion Detection and Tracking Using Opencv Contours. OpenCV is an image processing library created by Intel and later supported by Willow Garage and now maintained by Itseez. opencv is available on Mac, Windows, Linux. Works in C, C++, and Python. It is Open Source and free. opencv is easy to use and install.
